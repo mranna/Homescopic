@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680309035942",
+    "firebase_url": "https://homescopic.firebaseio.com",
+    "project_id": "homescopic",
+    "storage_bucket": "homescopic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680309035942:android:40a6ad3449418b33",
+        "android_client_info": {
+          "package_name": "com.example.hemanthanil.homescopic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680309035942-7hk4vshj5ovtve60asj0tb2uvj6ffnh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hemanthanil.homescopic",
+            "certificate_hash": "9091786f1c31c293cca8067b776b06ea8b29e025"
+          }
+        },
+        {
+          "client_id": "680309035942-8m464ehvkdtka1duubhj9455obvbv7of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn1WWz19hT9QaAxmHIgznP9Q7cD5WNms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680309035942-8m464ehvkdtka1duubhj9455obvbv7of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
